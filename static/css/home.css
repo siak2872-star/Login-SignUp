@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f8f8f8;
+}
+a {
+    margin: 30px;
+    text-decoration: none;
+    color: blue;
+}
